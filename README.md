@@ -41,18 +41,15 @@
 - <b>gymTracker </b> https://gymtrackerr.vercel.app, a web app that allows to track your gym progress. You can add workouts, weight measurements and view monthly statistics  <br />
 - <b>euroBet24</b> [eurobet24.vercel.app](https://eurobet24.vercel.app/) </b>, a web app that allows users to bet with and against friends for the EUROPEAN CHAMPIONSHIP 2024 in Germany. A project for Check24 GenDev scholarship. <br />
 - <b>LVM Ranft Versicherung </b> https://www.lvm-ranft.de/, the homepage for a germany insurance. A freelancing project for fiverr.  <br />
-- <b>ME-Remind </b> [https://me-remind.vercel.app,](https://www.lvm-ranft.de/) a simple web app for managing your to-dos.
+- <b>ME-Remind </b> [https://me-remind.vercel.app,](https://me-remind.vercel.app/) a simple web app for managing your to-dos.
 
 ### 💬 Contact me
  
 <div align="center">
-<a href="linkedin.com/in/david-luff-228985223" target="_blank">
+<a href="https://www.linkedin.com/in/david-luff-228985223/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
-<a href="daavid.luff" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</a>
-<a href="david.luff03@gmail.com" target="_blank">
+<a href="mailto:david.luff03@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </a>
 </div>
