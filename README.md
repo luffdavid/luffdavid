@@ -6,7 +6,7 @@
  📍  I'm living in Germany, Munich <br />
 👩🏻‍💻 I'm currently working @MediaMarktSaturn Technology <br />
 🎓 I'm currently studying business informatics @Technische Hochschule Ingolstadt <br />
-💻 Main focus is fullstack web development <br />
+💻 Web development <br />
 
 <div align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=luffdavid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
@@ -38,8 +38,8 @@
 </div>
 
 ### 🚀 Projects so far
-- <b>gymTracker </b> https://gymtrackerr.vercel.app, a web app that allows to track your gym progress. You can add workouts, weight measurements and view monthly statistics  <br />
-- <b>euroBet24</b> [eurobet24.vercel.app](https://eurobet24.vercel.app/) </b>, a web app that allows users to bet with and against friends for the EUROPEAN CHAMPIONSHIP 2024 in Germany. A project for Check24 GenDev scholarship. <br />
+- <b>gymTracker </b> https://gymtrackerr.vercel.app, a web app that allows to track your gym progress. You can add workouts, weight measurements and view monthly statistics.  Testaccount: Email test@workouttracker.com , Password: TEST123  <br />
+- <b>euroBet24</b> [eurobet24.vercel.app](https://eurobet24.vercel.app/) </b>, a web app that allows users to bet with and against friends for the EUROPEAN CHAMPIONSHIP 2024 in Germany. A project for Check24 GenDev scholarship. Testaccount: Email gendev@gmail.com , Password: TEST123 <br />
 - <b>LVM Ranft Versicherung </b> https://www.lvm-ranft.de/, the homepage for a germany insurance. A freelancing project for fiverr.  <br />
 - <b>ME-Remind </b> [https://me-remind.vercel.app,](https://me-remind.vercel.app/) a simple web app for managing your to-dos.
 
