@@ -37,11 +37,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-### 🚀 Projects so far
-- <b>gymTracker </b> https://gymtrackerr.vercel.app, a web app that allows to track your gym progress. You can add workouts, weight measurements and view monthly statistics.  Testaccount: Email test@workouttracker.com , Password: TEST123  <br />
-- <b>euroBet24</b> [eurobet24.vercel.app](https://eurobet24.vercel.app/) </b>, a web app that allows users to bet with and against friends for the EUROPEAN CHAMPIONSHIP 2024 in Germany. A project for Check24 GenDev scholarship. Testaccount: Email gendev@gmail.com , Password: TEST123 <br />
-- <b>LVM Ranft Versicherung </b> https://www.lvm-ranft.de/, the homepage for a germany insurance. A freelancing project for fiverr.  <br />
-- <b>ME-Remind </b> [https://me-remind.vercel.app,](https://me-remind.vercel.app/) a simple web app for managing your to-dos.
+
 
 ### 💬 Contact me
  
