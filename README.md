@@ -43,6 +43,9 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luffdavid&layout=compact&theme=dracula&langs_count=6&hide_border=false" height="150" />
 </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luffdavid&theme=green-nur" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -52,9 +55,10 @@
 <a href="https://www.linkedin.com/in/david-luff-228985223/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
-  <a href="kontakt@davidluff.de" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=maildotru&label=&color=red&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+<a href="mailto:kontakt@davidluff.de" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Mail&logo=maildotru&label=&color=red&logoColor=white&style=for-the-badge" height="35" />
+</a>
+
 </div>
  
 ###
